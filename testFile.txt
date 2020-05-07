@@ -1,1 +1,2 @@
 Przykładowy tekst do nauki gita
+To jest nowa linia
